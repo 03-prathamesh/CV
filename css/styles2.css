@@ -1,0 +1,31 @@
+/* tag selectors */
+h1{
+
+    color: blue;
+    font-size: 80px;
+
+} 
+
+body{
+
+    background-color: seagreen;
+}
+
+/* class selectors */
+
+.brokli{
+
+    background-color:orchid;
+}
+
+/* id selectors */
+
+#myTag{
+
+   color: saddlebrown;
+}
+
+.circular {
+
+    border-radius: 100%;
+}
